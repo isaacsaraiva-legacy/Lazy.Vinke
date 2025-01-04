@@ -1,0 +1,1 @@
+﻿Server=localhost;Database=Lazy;User Id=lazy;Password=lazy;Encrypt=no
